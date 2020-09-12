@@ -1,0 +1,17 @@
+*.iml
+*~
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/bin/
+/conf/evolutions
+*.mmdb
+*.ipr
+*.iws
+.DS_Store
+*.dat
